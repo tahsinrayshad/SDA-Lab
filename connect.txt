@@ -1,0 +1,7 @@
+connect system/110704trTR;
+
+create user lab02 identified by lab02;
+
+grant all privileges to lab02;
+
+connect lab02/lab02;

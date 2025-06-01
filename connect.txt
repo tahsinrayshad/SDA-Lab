@@ -1,4 +1,4 @@
-connect system/110704trTR;
+connect system/password;
 
 create user lab02 identified by lab02;
 
